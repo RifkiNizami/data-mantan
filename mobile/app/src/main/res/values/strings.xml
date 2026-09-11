@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mantanku</string>
+    <string name="list_title">Daftar Mantan Terindah</string>
+    <string name="form_title">Form Mantan</string>
+    <string name="detail_title">Detail Mantan</string>
+
+    <string name="label_nama">Nama</string>
+    <string name="label_no_hp">No. HP</string>
+    <string name="label_alamat">Alamat</string>
+    <string name="label_makanan_favorit">Makanan Favorit</string>
+
+    <string name="hint_nama">Masukkan nama</string>
+    <string name="hint_no_hp">Masukkan nomor HP</string>
+    <string name="hint_alamat">Masukkan alamat</string>
+    <string name="hint_makanan_favorit">Pilih atau ketik makanan favorit</string>
+
+    <string name="btn_save">Simpan</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_add">Tambah Mantan</string>
+
+    <string name="msg_empty">Belum ada data mantan. Tap + untuk menambah.</string>
+    <string name="msg_loading">Memuat data...</string>
+    <string name="msg_delete_confirm_title">Hapus Data</string>
+    <string name="msg_delete_confirm_message">Yakin ingin menghapus %1$s?</string>
+    <string name="msg_error_network">Gagal terhubung ke server. Periksa koneksi dan alamat API.</string>
+    <string name="msg_field_required">Wajib diisi</string>
+
+    <string name="cd_delete">Hapus</string>
+    <string name="cd_edit">Edit</string>
+</resources>
